@@ -1,0 +1,17 @@
+.App {
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+.header{
+  width: 90%;
+  height: 50%;
+  padding: 3%;
+  background-color: rgb(235, 235, 235);
+}
+
+.PollSummary {
+  border: 1px solid black;
+  margin: 5px 5px 0px 5px;
+  padding: 5px;
+}
